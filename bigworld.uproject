@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{26DFCBF0-40A5-6C3D-735C-1F8157339868}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "bigworld",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
